@@ -1,1 +1,2 @@
-# HalfDegrix.github.io
+# halfdegrix.github.io
+Personal website
