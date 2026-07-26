@@ -7,4 +7,4 @@ The website contains much detail information than README.md repo, regarding abou
 - A short insight of me
 - Contacts
 
-The web can be access here: halfdegrix.github.io
+The web can be access here: [halfdegrix.github.io](halfdegrix.github.io)
