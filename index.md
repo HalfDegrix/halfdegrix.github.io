@@ -1,10 +1,12 @@
+Half Degrix
+
 Hadckel Leigh
 
-Teenage "developer" who are tech geeks and still in ongoing self learning on how to become software engineer. The name HalfDegrix originally comes from the old initial before, HalfDegreeLinux (HDL). Later changed to HalfDegrees and lastly HalfDegrix. Can you tell which OS i like?
+Teenage "developer" who are tech geeks and still in ongoing self learning on how to become software engineer. The name HalfDegrix originally comes from the old initial before, HalfDegreeLinux (HDL). Later changed to HalfDegrees and lastly HalfDegrix. Can you tell which kernel i like?
 
 Contact
 
-Email: 
+Email: pslinux@yahoo.com
 
 Links
 
